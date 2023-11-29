@@ -1,0 +1,11 @@
+{
+    "type_server": "postgresql",
+    "hote": "localhost",
+    "port": "5432",
+    "base_ name": "commerce",
+    "user": "postgres",
+    "password": "Fanyah",
+    "path_generate": "D:\\L3\\Naina\\test_scaffoling\\src",
+    "package_name": "model",
+    "language": "java"
+}
